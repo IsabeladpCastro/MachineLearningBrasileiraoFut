@@ -4,6 +4,8 @@ Este repositório contém um projeto de **Machine Learning aplicado ao futebol**
 
 A aplicação possui uma interface interativa em **Streamlit**, onde o usuário pode inserir valores e visualizar a predição do modelo em tempo real 🚀
 
+[Disponivel aqui](https://isabeladpcastro-machinelearningbrasileiraofut-app-lzipou.streamlit.app/)
+
 ---
 
 ## 📌 Objetivo do Projeto
